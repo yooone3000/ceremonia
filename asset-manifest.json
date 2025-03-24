@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ceremonia/static/css/main.f855e6bc.css",
+    "main.js": "/ceremonia/static/js/main.d24bf1a5.js",
+    "static/js/453.a1eda79c.chunk.js": "/ceremonia/static/js/453.a1eda79c.chunk.js",
+    "service-worker.js": "/ceremonia/service-worker.js",
+    "static/media/logo.svg": "/ceremonia/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/ceremonia/index.html",
+    "main.f855e6bc.css.map": "/ceremonia/static/css/main.f855e6bc.css.map",
+    "main.d24bf1a5.js.map": "/ceremonia/static/js/main.d24bf1a5.js.map",
+    "453.a1eda79c.chunk.js.map": "/ceremonia/static/js/453.a1eda79c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.d24bf1a5.js"
+  ]
+}
